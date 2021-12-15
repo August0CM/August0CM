@@ -30,7 +30,10 @@
   </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" align="left" alt="redux" width="40" height="40"/> </a> </p>
   </div>
   
-   ##
+<p align="left"><br>
+<h3 align="left">Contact me:</h3>
+</p>
+
  <div style="display: inline_block"><br>
   <a href = "mailto:acmourao91@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" target="_blank"></a>
   <a href="https://www.linkedin.com/in/augusto-de-carvalho-mour%C3%A3o/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" target="_blank"></a> 
