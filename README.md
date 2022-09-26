@@ -1,8 +1,8 @@
 ### Hi there! Welcome!! 👋 I'm Augusto
 
 
-- 🔭 I’m currently studying web development at Trybe.
-- 🌱 I’m currently learning Node.
+- 🔭  I completed the Trybe web development course.
+- 🌱 I’m currently learning TypeScript.
 
 <div align="center">
   <a href="https://github.com/August0CM">
