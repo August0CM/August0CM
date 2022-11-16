@@ -2,7 +2,7 @@
 
 
 - 🔭  I completed the Trybe web development course.
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning Java.
 
 <div align="center">
   <a href="https://github.com/August0CM">
